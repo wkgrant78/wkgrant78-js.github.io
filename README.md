@@ -23,7 +23,8 @@ Create a portfolio with an index, portfolio, and contact page to be continuously
 
 
 ### UPDATES
-* Removed excess files 
+* Had to create a new repo
+* Added required files 
 * Confirmed dynamic interface
 * Updated URL links (below)
 * Did a final push to GitHub
