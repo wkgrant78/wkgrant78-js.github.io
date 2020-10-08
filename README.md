@@ -1,4 +1,4 @@
-# Portfolio
+### PORTFOLIO:
 
 DESCRIPTION:
 
@@ -23,12 +23,11 @@ Create a portfolio with an index, portfolio, and contact page to be continuously
 
 
 ### UPDATES
-* Had to create a new repo
-* Added required files 
+* Removed excess files 
 * Confirmed dynamic interface
 * Updated URL links (below)
 * Did a final push to GitHub
-
+* Added img to folder - not sure how/where I want it
 
 #### ISSUES/IMPROVEMENTS:
 
@@ -41,11 +40,11 @@ Create a portfolio with an index, portfolio, and contact page to be continuously
 
 ### Live URL link:
 
-400 px index: https://wkgrant78.github.io/400-index.html
+* Deployed URL:
 
+https://wkgrant78.github.io/   
 
-GitHub repository link:
+* GitHub repo URL:
 
 https://github.com/wkgrant78/wkgrant78.github.io
-
 
