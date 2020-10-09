@@ -7,27 +7,16 @@ Create a portfolio with an index, portfolio, and contact page to be continuously
 
 #### DEVELOPMENTS/COMMITS:
 
-* Created 992 index.html, portfolio.html, contact.html, and style.css
-* Added bootstrap.css link, nav bar component from Bootstrap, and created reset.css
-* Created container and added attributes to style.css
-* Created layout and placeholders for each page with the required responsive layout and img size using Bootstrap    grid layout and img component
-* Updated all links in .html and verified functionality, added alt tags
-* Updated contact html layout
-* Created index.html, portfolio.html, contact.html, and style.css
-* Updated nav links 
-* Changed navbar 
+* Added imgs to pages 
+* Added about me section
+* Added portfolio screenshots
+* Added link to resume PDF
+* Updated GitHub profile
+* Pinned repos
+* Following people
 * Verified functionality
 * Updated README
 * Pushed final repo to GitHub
-* Added required links to BCS and submitted assignment 
-
-
-### UPDATES
-* Removed excess files 
-* Confirmed dynamic interface
-* Updated URL links (below)
-* Did a final push to GitHub
-* Added img to folder - not sure how/where I want it
 
 #### ISSUES/IMPROVEMENTS:
 
