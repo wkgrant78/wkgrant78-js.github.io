@@ -148,6 +148,11 @@
        border-color: red;
        border-width: 2px; 
    } 
+
+   .port-img {
+       border: black;
+   }
+
    /* Setting the stroke to green using rgb values (0, 128, 0) */ 
      
    /* .custom-toggler .navbar-toggler-icon { 
