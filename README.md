@@ -31,14 +31,20 @@ Create a portfolio with an index, portfolio, and contact page to be continuously
 
 #### ISSUES/IMPROVEMENTS:
 
-* FIXED - Getting the correct nav-toggle component from Bootstrap for 400 & 768
-* FIXED - Img alignment
-* FIXED - Change nav-toggle background color
-* Want to add background img
-* Need to update bio details and link personal imgs
-* Required Assignment Submission
+* Need borders around the images
+* Need to change the navbar toggle icon
+* Need border on the bottomw of the navbar
+* 
+
+SCREENSHOTS:
+
+<img src="./images/about-me.png" alt="screenshot">
 
 ### Live URL link:
+
+* Resume PDF URL:
+
+https://github.com/wkgrant78/wkgrant78.github.io/blob/main/resume/Wendy%20K%20Grant.pdf
 
 * Deployed URL:
 
