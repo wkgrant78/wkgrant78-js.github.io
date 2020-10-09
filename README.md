@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-Create a portfolio with an index, portfolio, and contact page to be continuously updated and pushed to GitHub. This will be used to showcase the projects in this course and any future projects. The assignment requires a navbar on each page, a responsive layout (400/768/992 px), functional links, semantic html, valid and correct html, personal information, utilization of Bootstrap components and grid system, responsive images, minimal use of media queries, functional applications, and GitHub repo with README.
+Create a portfolio with an index, portfolio, and contact page to be continuously updated and pushed to GitHub. This will be used to showcase the projects in this course and any future projects. The assignment requires a navbar on each page, a responsive layout, functional links, semantic html, valid and correct html, personal information, utilization of Bootstrap components and grid system, responsive images, minimal use of media queries, functional applications, and GitHub repo with README.
 
 
 #### DEVELOPMENTS/COMMITS:
@@ -13,10 +13,10 @@ Create a portfolio with an index, portfolio, and contact page to be continuously
 * Created layout and placeholders for each page with the required responsive layout and img size using Bootstrap    grid layout and img component
 * Updated all links in .html and verified functionality, added alt tags
 * Updated contact html layout
-* Created 400/768 index.html, portfolio.html, contact.html, and style.css
-* Updated nav links for 400/768/992 html
-* Changed navbar for 400 and 768 html
-* Verified functionality for 400/768/992
+* Created index.html, portfolio.html, contact.html, and style.css
+* Updated nav links 
+* Changed navbar 
+* Verified functionality
 * Updated README
 * Pushed final repo to GitHub
 * Added required links to BCS and submitted assignment 
