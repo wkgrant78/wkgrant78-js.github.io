@@ -38,7 +38,11 @@ Create a portfolio with an index, portfolio, and contact page to be continuously
 
 SCREENSHOTS:
 
-<img src="./images/about-me.png" alt="screenshot">
+<img src="images/about-me.PNG" alt="about-me">
+
+<img src="images/portfolio.PNG" alt="portfolio">
+
+<img src="images/contact-me.PNG" alt="contact-me">
 
 ### Live URL link:
 
