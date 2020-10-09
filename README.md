@@ -34,7 +34,7 @@ Create a portfolio with an index, portfolio, and contact page to be continuously
 * Need borders around the images
 * Need to change the navbar toggle icon
 * Need border on the bottomw of the navbar
-* 
+* Add links to LinkedIn profile
 
 SCREENSHOTS:
 
