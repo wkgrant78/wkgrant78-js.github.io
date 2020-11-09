@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+h5 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.row {
+    padding-bottom: 5em;
+}
+.card {
+    padding-top: 4em;
+    border-color: black;
+    border-width: 2px;
+    box-shadow: 0 2px 30px 0 rgba(0, 0, 0, 0.281);
+}
+
+.btn-primary{
+    background-color: black;
+    color: white;
+}
