@@ -6,7 +6,7 @@ h1 {
 
 h5 {
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .row {
@@ -24,9 +24,9 @@ h5 {
     background-color: black;
     color: white;
 }
-.card-img-top {
-    border-color: rgba(0, 0, 0, 0.281);
-    border-width: 35em;
+img.card-img-top {
+    border-color: black;
+    border-width: 5px;
 }
 
 .profile-links {
