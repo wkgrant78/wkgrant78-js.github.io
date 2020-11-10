@@ -153,6 +153,23 @@
        border: black;
    }
 
+   .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa-linkedin-square {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+  }
+
+  .form-group {
+      border-color: black;
+  }
    /* Setting the stroke to green using rgb values (0, 128, 0) */ 
      
    /* .custom-toggler .navbar-toggler-icon { 
