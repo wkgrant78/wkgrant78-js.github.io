@@ -29,6 +29,14 @@ h5 {
     border-width: 35em;
 }
 
+.profile-links {
+    color: red;
+    font-weight: bolder;
+}
+
+.card-text {
+    color: black
+}
 /* .portfolio {
     background-color: black;
 } */
